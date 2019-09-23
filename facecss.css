@@ -1,0 +1,114 @@
+
+.mill {
+width:35%;
+float:left;
+padding: 5px 15px 10px 2px;
+box-sizing:500px 650px;
+}
+.mill a{
+    text-decoration: none;
+}
+.gen {
+    background-color:  rgb(226, 226, 245);
+    height:600px;
+}
+.Opening {
+    float: left;
+    width:40%;
+    padding: 25px 10px 0px 0px ;
+    box-sizing:500px 650px;
+    border-spacing:3%;
+    }
+
+#ama{
+    background-color: rgb(4, 4, 146);
+    color: white;
+    height:  100px;
+}
+.aaa{
+    float:left;
+    width:200px;
+    font-size: 25px; 
+    padding:-10px 30px 10px 2px;
+}
+.fa, .fb, .fc, .fd, .na, .nb{
+    border-radius:0.3em;
+}
+.fa, .fb{
+    width:180px;
+    margin: 2px 5px 2px 3px; 
+    height:35px;
+    padding: 0px 5px 0px 5px;
+}
+.fc ,.fd{
+    width:400px;
+    margin:5px 5px 5px 3px;
+    height:35px;
+    padding:0px 5px 0px 5px;
+}
+#ama a{
+    float: right;
+    text-decoration: none;
+    color: white;
+}
+.abc{
+    border-radius:0.2em;
+    padding:1px 10px 1px 10px;
+    width: 150px;
+    height:20px;
+}
+.abd{border-radius:0.2em;
+    padding:1px 10px 1px 10px;
+    width: 150px;
+    height:20px;
+
+}
+.ami{
+    text-align:right;
+    margin:5px 10px 5px 50px;
+    width:100px;
+    border-radius:0.3em;
+}
+
+img {background-size: 60%;
+    margin-bottom: 10px;
+
+}
+
+
+
+.list, .orange a:hover{
+    color: teal;
+    text-decoration: none;
+}
+ .may{
+    background: rgb(226, 223, 223);
+    height: 120px;
+    text-indent: 1.2cm;
+    margin-top: 30px;
+    padding: 2px 10px 10px 10px;
+}
+.fa, .fb, .fc, .fd, .fe, .ff, .fg { border-radius: 0.4em;
+
+ }
+ .na ,.nb {
+     width:45px;
+ }
+ .fg{
+     width:60px
+ }
+ .ff{
+     border-style: double;
+     width:60px;
+     padding: 0px 5px 0px 5px;
+     height:30px;
+ }
+ .list a{
+     text-decoration: none;
+     text-indent:1.2cm;
+ }
+.orange a{text-decoration: none;
+   }
+.list, .orange a{text-align: left;
+    text-indent:1.2cm;
+}
